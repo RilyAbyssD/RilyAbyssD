@@ -6,9 +6,9 @@
 # MyProfile
 
 ```RilyAbyss``` です。
-
+基本的にMinecraftのSpigotプラグインを製作しています。
+プログラミング言語は
 - Java
 - Kotlin
 - Ruby
-
 の三つを基本的に使用しています。
