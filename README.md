@@ -9,5 +9,7 @@
 基本的にMinecraftのSpigotプラグインを製作しています。
 プログラミング言語は
 - Java
+- JavaScript
 - Ruby
-の2つを基本的に使用しています。
+の3つを基本的に使用しています。
+がメインはJavaとJavaScriptです。
